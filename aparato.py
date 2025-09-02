@@ -14,4 +14,4 @@ class Aparato:
 
     def costo_mensual(self, tarifa):
         """Calcula el costo mensual según la tarifa en $/kWh"""
-        return self.consumo_mensual_kwh() *  tarifa
+        return self.consumo_mensual_kwh()* tarifa
