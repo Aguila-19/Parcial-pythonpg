@@ -38,5 +38,5 @@ def Ejercicio1Parcial():
     print(f" Consumo total: {total_consumo:.2f} kWh")
     print(f" Gasto mensual total: ${total_costo:.2f}")
 
-if __name__ == "_main_":
+if _name_ == "_main_":
     Ejercicio1Parcial()
